@@ -6,7 +6,8 @@ public class FirstClass {
         System.out.println("Doing first Sprint meeting");
          System.out.println("Doing second Sprint meeting");
          System.out.println("Doing third Sprint meeting");
-    
+        System.out.println("Doing daily scrum meeting");
+        System.out.println("Doing forth Sprint meeting");
 
     }
 }
